@@ -1,6 +1,5 @@
 const nameGirl = 'Chào Ngọc';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Vui vẻ';
 const titleCard = 'Tặng người ấy';
 const contentCard = 'Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
 
